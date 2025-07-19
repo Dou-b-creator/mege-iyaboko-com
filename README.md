@@ -1,1 +1,2 @@
-# mege-iyaboko-com
+# mege.iyaboko.com
+This is the `mege` portal.
